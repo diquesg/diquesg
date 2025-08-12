@@ -30,5 +30,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/diquesg/diquesg/output/snake.svg" alt="Snake animation" />
-
-###
